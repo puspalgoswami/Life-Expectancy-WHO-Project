@@ -1,5 +1,3 @@
----
-
 # 🌍 Life Expectancy Prediction using WHO Dataset
 
 This project focuses on predicting **life expectancy** based on various socio-economic and health-related features using machine learning techniques. The dataset was sourced from the **World Health Organization (WHO)**, and models were trained to analyze and forecast the life expectancy of different countries over several years.
