@@ -1,5 +1,3 @@
-Here's a detailed and structured **README.md** section for your **Life Expectancy Prediction using WHO Dataset** project. You can paste this into your GitHub repository:
-
 ---
 
 # 🌍 Life Expectancy Prediction using WHO Dataset
