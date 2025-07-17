@@ -96,16 +96,13 @@ Each model was evaluated using:
 ## 📁 Folder Structure
 
 ```
-life-expectancy-prediction/
-├── data/
-│   └── Life Expectancy Data.csv
-├── notebooks/
-│   └── life_expectancy_analysis.ipynb
-├── plots/
-│   └── feature_importance.png
-│   └── actual_vs_predicted.png
-├── README.md
-└── requirements.txt
+Life-Expectancy-WHO-Project/
+├── Life Expectancy Data.csv        # WHO dataset
+├── LinRegg.ipynb                   # Linear Regression implementation
+├── RanFors.ipynb                   # Random Forest implementation
+├── XGboost.ipynb                   # XGBoost implementation
+├── README.md                       # Project documentation
+
 ```
 
 ---
@@ -115,8 +112,9 @@ life-expectancy-prediction/
 1. Clone the repository
 
    ```
-   git clone https://github.com/yourusername/life-expectancy-prediction.git
-   cd life-expectancy-prediction
+   git clone https://github.com/puspalgoswami/Life-Expectancy-WHO-Project.git
+   cd Life-Expectancy-WHO-Project
+
    ```
 
 2. Install dependencies
