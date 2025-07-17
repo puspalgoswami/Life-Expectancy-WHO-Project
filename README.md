@@ -146,7 +146,8 @@ life-expectancy-prediction/
 
 Made with ❤️ by **Puspal Goswami**
 📧 Email: \[[goswamipuspal2005@gmail.com ](mailto:goswamipuspal2005@gmail.com)]
-🔗 Portfolio: \[puspalgoswami.github.io/Portfolio]
+🔗 Portfolio: \[[puspalgoswami.github.io/Portfolio](https://puspalgoswami.github.io/Portfolio/
+)]
 
 ---
 
